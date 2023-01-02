@@ -7,3 +7,4 @@ The proposed model based on the hashgraph was validated through a simulation on 
 
 
 *Suggested Reading: Prashar, Deepak, Nishant Jha, Sudan Jha, Gyanendra Prasad Joshi, and Changho Seo. "Integrating IOT and blockchain for ensuring road safety: An unconventional approach." Sensors 20, no. 11 (2020): 3296.
+Jha, S., Jha, N., Prashar, D., Ahmad, S., Alouffi, B., & Alharbi, A. (2022). Integrated IoT-Based Secure and Efficient Key Management Framework Using Hashgraphs for Autonomous Vehicles to Ensure Road Safety. Sensors, 22(7), 2529. https://doi.org/10.3390/s22072529
